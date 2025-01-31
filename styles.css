@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+a {
+    color: black;
+    font-weight: 800;
+}
+
+a:hover, a:active {
+    color: grey;
+}
+
+.recipe-links {
+    text-align: center;
+}
+
